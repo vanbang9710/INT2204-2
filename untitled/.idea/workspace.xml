@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6a36af-dec0-4d14-93f3-a8de83617820" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Fraction/Fraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManagement/StudentManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isPrime/isPrime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,5 +47,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
