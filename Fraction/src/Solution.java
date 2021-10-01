@@ -2,15 +2,13 @@ public class Solution {
     /**
      * declare attributes here.
      */
-    private int numerator;
-    private int denominator;
+    private int numerator = 0;
+    private int denominator = 1;
 
     /**
      * declare constructor with no parameter.
      */
     public Solution() {
-        this.numerator = 0;
-        this.denominator = 1;
     }
 
     /**
@@ -20,10 +18,6 @@ public class Solution {
         if (denominator != 0) {
             this.numerator = numerator;
             this.denominator = denominator;
-            reduce();
-        } else {
-            this.numerator = 0;
-            this.denominator = 1;
         }
     }
 
@@ -34,10 +28,6 @@ public class Solution {
         if (other.denominator != 0) {
             this.numerator = other.numerator;
             this.denominator = other.denominator;
-            reduce();
-        } else {
-            this.numerator = 0;
-            this.denominator = 1;
         }
     }
 
@@ -53,7 +43,6 @@ public class Solution {
      */
     public void setNumerator(int numerator) {
         this.numerator = numerator;
-        reduce();
     }
 
     /**
@@ -69,7 +58,6 @@ public class Solution {
     public void setDenominator(int denominator) {
         if (denominator != 0) {
             this.denominator = denominator;
-            reduce();
         }
     }
 
@@ -94,74 +82,42 @@ public class Solution {
     }
 
     /**
-     * reduce big num.
-     */
-    public Solution reduce(long numerator, long denominator) {
-        long a = numerator;
-        long b = denominator;
-        while (a != 0) {
-            long r = b % a;
-            b = a;
-            a = r;
-        }
-        numerator /= b;
-        denominator /= b;
-        if (denominator < 0) {
-            numerator = -numerator;
-            denominator = -denominator;
-        }
-        this.numerator = (int) numerator;
-        this.denominator = (int) denominator;
-        return this;
-    }
-
-    /**
      * add.
      */
     public Solution add(Solution other) {
-        if (other.denominator == 0) {
-            return this;
-        }
-        long numerator = (long) this.numerator * other.denominator
-                + (long) this.denominator * other.numerator;
-        long denominator = (long) this.denominator * other.denominator;
-        return reduce(numerator, denominator);
+        numerator = numerator * other.denominator + denominator * other.numerator;
+        denominator = denominator * other.denominator;
+        this.reduce();
+        return this;
     }
 
     /**
      * subtract.
      */
     public Solution subtract(Solution other) {
-        if (other.denominator == 0) {
-            return this;
-        }
-        long numerator = (long) this.numerator * other.denominator
-                - (long) this.denominator * other.numerator;
-        long denominator = (long) this.denominator * other.denominator;
-        return reduce(numerator, denominator);
+        numerator = numerator * other.denominator - denominator * other.numerator;
+        denominator = denominator * other.denominator;
+        this.reduce();
+        return this;
     }
 
     /**
-     * multiple.
+     * multiply.
      */
-    public Solution multiple(Solution other) {
-        if (other.denominator == 0) {
-            return this;
-        }
-        long numerator = (long) this.numerator * other.numerator;
-        long denominator = (long) this.denominator * other.denominator;
-        return reduce(numerator, denominator);
+    public Solution multiply(Solution other) {
+        numerator = numerator * other.numerator;
+        denominator = denominator * other.denominator;
+        this.reduce();
+        return this;
     }
 
     /**
      * divide.
      */
     public Solution divide(Solution other) {
-        if (other.numerator != 0) {
-            long numerator = (long) this.numerator * other.denominator;
-            long denominator = (long) this.denominator * other.numerator;
-            return reduce(numerator, denominator);
-        }
+        numerator = numerator * other.denominator;
+        denominator = denominator * other.numerator;
+        this.reduce();
         return this;
     }
 
