@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7b816ba-d43e-4042-9a62-0bf820e25cd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/Extend2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/src/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extend2/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism2/Polymorphism2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism2/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism2/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism2/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism2/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCD/out/production/GCD/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GCD/out/production/GCD/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCD/out/production/GCD/Solution.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ztGn2eRT7haKdnzTDCzfc6Sw8y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Solution" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b816ba-d43e-4042-9a62-0bf820e25cd9" name="Changes" comment="" />
+      <created>1634960136071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634960136071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
